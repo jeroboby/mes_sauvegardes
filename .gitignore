@@ -1,0 +1,12 @@
+**/.settings/
+**/.project
+**/.classpath
+**/bin/
+**/*.jar
+**/*.war
+**/.metadata/
+**/.recommenders/
+servers/
+tools/
+libs/
+**/target/
